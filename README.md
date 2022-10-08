@@ -38,6 +38,6 @@ TailwindCSS is a utility-first CSS framework packed with classes like flex, pt-4
     - Optimized with speed and fast loading
     - lighthouse report
    
-![App Screenshot](https://drive.google.com/file/d/15jrBH-Xtg6AD4d6TRb9bTKnacybS3svK/view?usp=sharing)
+![App Screenshot]([https://drive.google.com/file/d/15jrBH-Xtg6AD4d6TRb9bTKnacybS3svK/view?usp=sharing](https://lh3.googleusercontent.com/drive-viewer/AJc5JmQ5kjL81MAOYtoHmNyXJqn8F1rbuUtBGllXn_7HQem8C2nKBysudnNbw6fLd7JVSZ8iASdB0j0=w1782-h988))
 
 This project can be seen live here 👉🏻 [click here](https://greedygame-assignment.vercel.app/)
