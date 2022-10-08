@@ -1,0 +1,8 @@
+.hearFromClients {
+    background-image: url('../../public/Icon awesome-quote-left.svg');
+    background-size: 18rem;
+    background-repeat: no-repeat;
+    background-position: 2rem 1rem;
+    background-origin: content-box;
+    padding: 0 0 26px 25px;
+}

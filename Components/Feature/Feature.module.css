@@ -1,0 +1,23 @@
+.feature {
+    background-image: url('../../public/Group7444@2x.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 63px;
+}
+
+.feature__left__card {
+    width: 338px;
+    height: 176px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
